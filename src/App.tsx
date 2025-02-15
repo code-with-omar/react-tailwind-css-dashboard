@@ -37,12 +37,12 @@ export default function App() {
             <Route path="/basic-tables" element={<BasicTables />} />
 
             {/* Ui Elements */}
-            <Route path="/alerts" element={<Alerts />} />
+            {/* <Route path="/alerts" element={<Alerts />} />
             <Route path="/avatars" element={<Avatars />} />
             <Route path="/badges" element={<Badges />} />
             <Route path="/buttons" element={<Buttons />} />
             <Route path="/images" element={<Images />} />
-            <Route path="/videos" element={<Videos />} />
+            <Route path="/videos" element={<Videos />} /> */}
           </Route>
 
           {/* Auth Layout */}
